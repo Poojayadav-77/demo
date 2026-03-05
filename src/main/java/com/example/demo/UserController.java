@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 
 @RestController
-@CrossOrigin(origins= "*")
+@CrossOrigin(origins=https://react-frontend-git-main-poojayadav-77s-projects.vercel.app/)
 
 public class UserController {
     @Autowired
